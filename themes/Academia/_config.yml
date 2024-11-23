@@ -13,7 +13,7 @@ since: 2024
 menu:
   Publications: /publication
   About: /
-  Blog: /Misc
+  Blog: /thoughts
 
 # flink picture will load if avator link calls on error
 loading_bg:
